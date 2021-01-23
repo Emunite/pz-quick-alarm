@@ -1,7 +1,7 @@
-name=Zomboid Mod
+name=Quick Alarm
 poster=poster.png
-description=This is a zomboid mod template
-id=pz-zmod
-url=https://github.com/yooksi/pz-zmod
+description=A feature that will allow you to quickly set an alarm without going into your inventory.
+id=pz-quick-alarm
+url=https://github.com/Emunite/pz-quick-alarm
 modversion=1.0
-pzversion=41.47
+pzversion=41.50
